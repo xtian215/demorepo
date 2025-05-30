@@ -1,7 +1,9 @@
 console.log('LoginPage Version 1');
 console.log('LoginPage Version 2');
 console.log('LoginPage Version 3');
-console.log('LoginPage Version 4');
+console.log('LoginPage Version 3');
 console.log('LoginPage Version 5');
 console.log('LoginPage Version 6');
 console.log('LoginPage Version 7');
+console.log('LoginPage Version 8');
+console.log('LoginPage Version 9'); 
